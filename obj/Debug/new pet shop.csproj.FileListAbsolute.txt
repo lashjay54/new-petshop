@@ -1,0 +1,18 @@
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new pet shop.csproj.AssemblyReference.cache
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new pet shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.billing.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.customer.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.employee.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.home.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.loading.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.login.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.product.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.Properties.Resources.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new_pet_shop.welcome.resources
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new pet shop.csproj.GenerateResource.cache
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new pet shop.csproj.CoreCompileInputs.cache
+C:\Users\MSii\Desktop\new pet shop\new pet shop\bin\Debug\new pet shop.exe.config
+C:\Users\MSii\Desktop\new pet shop\new pet shop\bin\Debug\new pet shop.exe
+C:\Users\MSii\Desktop\new pet shop\new pet shop\bin\Debug\new pet shop.pdb
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new pet shop.exe
+C:\Users\MSii\Desktop\new pet shop\new pet shop\obj\Debug\new pet shop.pdb
